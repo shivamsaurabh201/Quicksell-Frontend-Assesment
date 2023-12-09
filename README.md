@@ -1,8 +1,9 @@
-Kanban-Board-Application (Quicksell-Frontend-Assessment)
-Getting Started with the Application
-Visit the deployed app here
+**Kanban-Board-Application (Quicksell-Frontend-Assessment)**
 
-Instructions
+**Getting Started with the Application**
+Visit the deployed app here : https://shivam-saurabh-quicksell-kanban-board.netlify.app/
+
+**Instructions**
 Clone the repository using the following command: git clone https://github.com/shivamsaurabh201/Quicksell-Frontend-Assesment
 
 Install the required npm packages: npm install
@@ -10,7 +11,7 @@ Install the required npm packages: npm install
 Start the application on localhost: npm start
 
 
-Project Structure
+**Project Structure**
 The project is organized into the following major directories:
 
 build: Contains the production-ready code of the project.
