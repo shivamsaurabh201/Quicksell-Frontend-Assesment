@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5527aef.css",
+    "main.js": "/static/js/main.d6fd8f6c.js",
+    "static/media/Display.svg": "/static/media/Display.c0a6c76d7cf14c8e9cbdcbfa6be780c8.svg",
+    "static/media/Done.svg": "/static/media/Done.a4a61464ad446ebac9974307c8205afa.svg",
+    "static/media/Backlog.svg": "/static/media/Backlog.e9533901939960298509fe1d121e44b3.svg",
+    "static/media/Medium.svg": "/static/media/Medium.32ac4014881a5ea774d64db17e4780a0.svg",
+    "static/media/Dancelled.svg": "/static/media/Dancelled.75306b7553e9c07c6a5fe569cfeeec71.svg",
+    "static/media/DownArrow.svg": "/static/media/DownArrow.69e68b70978ee3940da47f57a3ab99fb.svg",
+    "static/media/Progress.svg": "/static/media/Progress.f4f1257f3f05612e5e06dff99e6c91b5.svg",
+    "index.html": "/index.html",
+    "static/media/High.svg": "/static/media/High.cbc74b70bb35c6d9e87cec05c3806121.svg",
+    "static/media/Low.svg": "/static/media/Low.059f771949c7f79dd0d8ce7fade87eea.svg",
+    "static/media/Todo.svg": "/static/media/Todo.11009935cc803685cf6e87b4de069686.svg",
+    "static/media/More.svg": "/static/media/More.2995edf917f1595b1463dc68176e0e9a.svg",
+    "static/media/Urgent.svg": "/static/media/Urgent.c8dee2626224684986092dc53c2643c3.svg",
+    "static/media/Plus.svg": "/static/media/Plus.c66cf606633a02f86ad90a5fa85a1fdb.svg",
+    "main.c5527aef.css.map": "/static/css/main.c5527aef.css.map",
+    "main.d6fd8f6c.js.map": "/static/js/main.d6fd8f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5527aef.css",
+    "static/js/main.d6fd8f6c.js"
+  ]
+}
