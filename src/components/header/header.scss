@@ -1,0 +1,40 @@
+.Header{
+    background-color: white;
+    padding: 20px 10px;
+
+    
+    .menu-toggle{
+        font-size: larger;
+        border: 1px solid rgb(205, 201, 201);
+        border-radius: 4px;
+        padding: 2px;
+        width:fit-content;
+        gap: 5px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .select {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .menu{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        // border: 1px solid black;
+        height: 60px;
+        padding: 10px;
+        margin-top: 10px;
+        position: absolute;
+        background-color: #F8F8FA;
+        box-shadow: 0 0 5px rgba(81, 80, 80, 0.5);
+        border-radius: 5px;
+        margin-right: 20px;
+        width: 18%;
+    }
+}

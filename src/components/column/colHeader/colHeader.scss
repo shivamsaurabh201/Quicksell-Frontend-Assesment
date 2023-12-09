@@ -1,0 +1,29 @@
+.col-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .start, .end{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .icon{
+        height: 20px;
+        object-fit: cover;
+    }
+
+    .initials{
+        background-color: black;
+        font-weight: bold;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 30px;
+        border-radius: 100%;
+        aspect-ratio: 1/1;
+    }
+}
